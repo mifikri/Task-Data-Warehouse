@@ -1,0 +1,8241 @@
+[{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b3c"
+  },
+  "village": "P. PANGGANG",
+  "district": "KEP. SERIBU UTR",
+  "city": "KAB.ADM.KEP.SERIBU",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 1365
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 571
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 1679
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 874
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 1594
+    },
+    {
+      "name": "diploma I II",
+      "amount": 27
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 60
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 184
+    },
+    {
+      "name": "strata II",
+      "amount": 0
+    },
+    {
+      "name": "strata III",
+      "amount": 0
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 1508
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 1475
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 1603
+    },
+    {
+      "name": "pensiunan",
+      "amount": 21
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 185
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 4
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 10
+    },
+    {
+      "name": "perdagangan",
+      "amount": 6
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 918
+    },
+    {
+      "name": "industri",
+      "amount": 1
+    },
+    {
+      "name": "konstruksi",
+      "amount": 4
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 197
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 1
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 0
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 90
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 63
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 0
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 0
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 0
+    },
+    {
+      "name": "seniman",
+      "amount": 1
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 0
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 1
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 2
+    },
+    {
+      "name": "guru",
+      "amount": 101
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 0
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 0
+    },
+    {
+      "name": "dokter",
+      "amount": 1
+    },
+    {
+      "name": "bidan",
+      "amount": 7
+    },
+    {
+      "name": "perawat",
+      "amount": 9
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 0
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 0
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 11
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 114
+    },
+    {
+      "name": "lainnya",
+      "amount": 24
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b3d"
+  },
+  "village": "P. KELAPA",
+  "district": "KEP. SERIBU UTR",
+  "city": "KAB.ADM.KEP.SERIBU",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 1297
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 570
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 2179
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 1136
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 1106
+    },
+    {
+      "name": "diploma I II",
+      "amount": 15
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 38
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 108
+    },
+    {
+      "name": "strata II",
+      "amount": 8
+    },
+    {
+      "name": "strata III",
+      "amount": 0
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 1508
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 1475
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 1603
+    },
+    {
+      "name": "pensiunan",
+      "amount": 21
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 185
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 4
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 10
+    },
+    {
+      "name": "perdagangan",
+      "amount": 6
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 918
+    },
+    {
+      "name": "industri",
+      "amount": 1
+    },
+    {
+      "name": "konstruksi",
+      "amount": 4
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 197
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 1
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 0
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 90
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 63
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 0
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 0
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 0
+    },
+    {
+      "name": "seniman",
+      "amount": 1
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 0
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 1
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 2
+    },
+    {
+      "name": "guru",
+      "amount": 101
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 0
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 0
+    },
+    {
+      "name": "dokter",
+      "amount": 1
+    },
+    {
+      "name": "bidan",
+      "amount": 7
+    },
+    {
+      "name": "perawat",
+      "amount": 9
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 0
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 0
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 11
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 114
+    },
+    {
+      "name": "lainnya",
+      "amount": 24
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b3e"
+  },
+  "village": "P. HARAPAN",
+  "district": "KEP. SERIBU UTR",
+  "city": "KAB.ADM.KEP.SERIBU",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 428
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 193
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 818
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 338
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 401
+    },
+    {
+      "name": "diploma I II",
+      "amount": 13
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 17
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 32
+    },
+    {
+      "name": "strata II",
+      "amount": 0
+    },
+    {
+      "name": "strata III",
+      "amount": 0
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 476
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 564
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 521
+    },
+    {
+      "name": "pensiunan",
+      "amount": 2
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 30
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 0
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 2
+    },
+    {
+      "name": "perdagangan",
+      "amount": 0
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 1
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 470
+    },
+    {
+      "name": "industri",
+      "amount": 0
+    },
+    {
+      "name": "konstruksi",
+      "amount": 10
+    },
+    {
+      "name": "transportasi",
+      "amount": 2
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 0
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 51
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 0
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 0
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 20
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 33
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 2
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 0
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 0
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 0
+    },
+    {
+      "name": "seniman",
+      "amount": 0
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 0
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 0
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 1
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 0
+    },
+    {
+      "name": "guru",
+      "amount": 0
+    },
+    {
+      "name": "pilot",
+      "amount": 31
+    },
+    {
+      "name": "pengacara",
+      "amount": 0
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 0
+    },
+    {
+      "name": "dokter",
+      "amount": 0
+    },
+    {
+      "name": "bidan",
+      "amount": 0
+    },
+    {
+      "name": "perawat",
+      "amount": 2
+    },
+    {
+      "name": "apoteker",
+      "amount": 2
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 0
+    },
+    {
+      "name": "peneliti",
+      "amount": 1
+    },
+    {
+      "name": "sopir",
+      "amount": 0
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 0
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 0
+    },
+    {
+      "name": "lainnya",
+      "amount": 26
+    },
+    {
+      "name": "hakim",
+      "amount": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b3f"
+  },
+  "village": "P. UNTUNG JAWA",
+  "district": "KEP. SERIBU SLT",
+  "city": "KAB.ADM.KEP.SERIBU",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 488
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 197
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 656
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 322
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 446
+    },
+    {
+      "name": "diploma I II",
+      "amount": 8
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 19
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 44
+    },
+    {
+      "name": "strata II",
+      "amount": 3
+    },
+    {
+      "name": "strata III",
+      "amount": 0
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 526
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 507
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 500
+    },
+    {
+      "name": "pensiunan",
+      "amount": 11
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 39
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 1
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 11
+    },
+    {
+      "name": "perdagangan",
+      "amount": 8
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 3
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 284
+    },
+    {
+      "name": "industri",
+      "amount": 0
+    },
+    {
+      "name": "konstruksi",
+      "amount": 4
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 0
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 0
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 0
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 0
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 0
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 0
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 0
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 0
+    },
+    {
+      "name": "seniman",
+      "amount": 0
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 0
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 0
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 0
+    },
+    {
+      "name": "guru",
+      "amount": 0
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 0
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 1
+    },
+    {
+      "name": "dokter",
+      "amount": 1
+    },
+    {
+      "name": "bidan",
+      "amount": 0
+    },
+    {
+      "name": "perawat",
+      "amount": 0
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 2
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 0
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 0
+    },
+    {
+      "name": "pialang",
+      "amount": 14
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 0
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 135
+    },
+    {
+      "name": "lainnya",
+      "amount": 25
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b40"
+  },
+  "village": "P. TIDUNG",
+  "district": "KEP. SERIBU SLT",
+  "city": "KAB.ADM.KEP.SERIBU",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 1036
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 458
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 1411
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 792
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 1023
+    },
+    {
+      "name": "diploma I II",
+      "amount": 54
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 66
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 198
+    },
+    {
+      "name": "strata II",
+      "amount": 4
+    },
+    {
+      "name": "strata III",
+      "amount": 0
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 12056
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 1163
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 1160
+    },
+    {
+      "name": "pensiunan",
+      "amount": 14
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 117
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 0
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 8
+    },
+    {
+      "name": "perdagangan",
+      "amount": 4
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 1
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 776
+    },
+    {
+      "name": "industri",
+      "amount": 0
+    },
+    {
+      "name": "konstruksi",
+      "amount": 10
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 126
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 1
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 1
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 77
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 46
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 0
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 0
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 0
+    },
+    {
+      "name": "seniman",
+      "amount": 0
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 0
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 0
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 121
+    },
+    {
+      "name": "guru",
+      "amount": 0
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 0
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 0
+    },
+    {
+      "name": "dokter",
+      "amount": 4
+    },
+    {
+      "name": "bidan",
+      "amount": 7
+    },
+    {
+      "name": "perawat",
+      "amount": 0
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 19
+    },
+    {
+      "name": "pelaut",
+      "amount": 0
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 0
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 16
+    },
+    {
+      "name": "pedagang",
+      "amount": 0
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 152
+    },
+    {
+      "name": "lainnya",
+      "amount": 14
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b41"
+  },
+  "village": "P. PARI",
+  "district": "KEP. SERIBU SLT",
+  "city": "KAB.ADM.KEP.SERIBU",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 520
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 318
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 1139
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 372
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 409
+    },
+    {
+      "name": "diploma I II",
+      "amount": 9
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 18
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 33
+    },
+    {
+      "name": "strata II",
+      "amount": 3
+    },
+    {
+      "name": "strata III",
+      "amount": 0
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 587
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 686
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 722
+    },
+    {
+      "name": "pensiunan",
+      "amount": 2
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 12
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 1
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 0
+    },
+    {
+      "name": "perdagangan",
+      "amount": 2
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 1
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 591
+    },
+    {
+      "name": "industri",
+      "amount": 0
+    },
+    {
+      "name": "konstruksi",
+      "amount": 14
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 33
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 0
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 0
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 9
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 11
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 1
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 0
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 0
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 0
+    },
+    {
+      "name": "seniman",
+      "amount": 0
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 0
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 0
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 0
+    },
+    {
+      "name": "guru",
+      "amount": 35
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 0
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 0
+    },
+    {
+      "name": "dokter",
+      "amount": 1
+    },
+    {
+      "name": "bidan",
+      "amount": 5
+    },
+    {
+      "name": "perawat",
+      "amount": 5
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 1
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 0
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 2
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 67
+    },
+    {
+      "name": "lainnya",
+      "amount": 32
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b42"
+  },
+  "village": "GAMBIR",
+  "district": "GAMBIR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 378
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 293
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 266
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 383
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 1445
+    },
+    {
+      "name": "diploma I II",
+      "amount": 22
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 178
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 412
+    },
+    {
+      "name": "strata II",
+      "amount": 30
+    },
+    {
+      "name": "strata III",
+      "amount": 2
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 381
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 564
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 780
+    },
+    {
+      "name": "pensiunan",
+      "amount": 77
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 81
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 133
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 4
+    },
+    {
+      "name": "perdagangan",
+      "amount": 1
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "industri",
+      "amount": 2
+    },
+    {
+      "name": "konstruksi",
+      "amount": 0
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 956
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 8
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 0
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 5
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 18
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 2
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 1
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 0
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 0
+    },
+    {
+      "name": "seniman",
+      "amount": 0
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 11
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 0
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 1
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 3
+    },
+    {
+      "name": "guru",
+      "amount": 1
+    },
+    {
+      "name": "pilot",
+      "amount": 4
+    },
+    {
+      "name": "pengacara",
+      "amount": 0
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 2
+    },
+    {
+      "name": "konsultan",
+      "amount": 8
+    },
+    {
+      "name": "dokter",
+      "amount": 4
+    },
+    {
+      "name": "bidan",
+      "amount": 2
+    },
+    {
+      "name": "perawat",
+      "amount": 0
+    },
+    {
+      "name": "apoteker",
+      "amount": 1
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 4
+    },
+    {
+      "name": "pelaut",
+      "amount": 0
+    },
+    {
+      "name": "peneliti",
+      "amount": 4
+    },
+    {
+      "name": "sopir",
+      "amount": 0
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 48
+    },
+    {
+      "name": "pedagang",
+      "amount": 0
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 256
+    },
+    {
+      "name": "lainnya",
+      "amount": 27
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b43"
+  },
+  "village": "CIDENG",
+  "district": "GAMBIR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 2347
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 1689
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 1042
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 2061
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 7627
+    },
+    {
+      "name": "diploma I II",
+      "amount": 43
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 783
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 3056
+    },
+    {
+      "name": "strata II",
+      "amount": 216
+    },
+    {
+      "name": "strata III",
+      "amount": 15
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 2458
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 3709
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 4271
+    },
+    {
+      "name": "pensiunan",
+      "amount": 256
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 186
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 17
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 204
+    },
+    {
+      "name": "perdagangan",
+      "amount": 4
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 1
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "industri",
+      "amount": 5
+    },
+    {
+      "name": "konstruksi",
+      "amount": 7
+    },
+    {
+      "name": "transportasi",
+      "amount": 2
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 5726
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 27
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 6
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 18
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 163
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 2
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 2
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 2
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 8
+    },
+    {
+      "name": "seniman",
+      "amount": 7
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 11
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 10
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 1
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 3
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 1
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 23
+    },
+    {
+      "name": "guru",
+      "amount": 87
+    },
+    {
+      "name": "pilot",
+      "amount": 2
+    },
+    {
+      "name": "pengacara",
+      "amount": 17
+    },
+    {
+      "name": "notaris",
+      "amount": 5
+    },
+    {
+      "name": "arsitek",
+      "amount": 2
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 4
+    },
+    {
+      "name": "dokter",
+      "amount": 89
+    },
+    {
+      "name": "bidan",
+      "amount": 4
+    },
+    {
+      "name": "perawat",
+      "amount": 9
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 4
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 62
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 1
+    },
+    {
+      "name": "pedagang",
+      "amount": 181
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 1
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 1080
+    },
+    {
+      "name": "lainnya",
+      "amount": 201
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b44"
+  },
+  "village": "PETOJO UTARA",
+  "district": "GAMBIR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 2967
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 2245
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 1748
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 2724
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 9068
+    },
+    {
+      "name": "diploma I II",
+      "amount": 52
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 790
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 2124
+    },
+    {
+      "name": "strata II",
+      "amount": 153
+    },
+    {
+      "name": "strata III",
+      "amount": 13
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 3171
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 4366
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 4892
+    },
+    {
+      "name": "pensiunan",
+      "amount": 119
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 97
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 13
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 7
+    },
+    {
+      "name": "perdagangan",
+      "amount": 0
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 1
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "industri",
+      "amount": 0
+    },
+    {
+      "name": "konstruksi",
+      "amount": 1
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 7104
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 20
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 1
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 7
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 350
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 7
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 350
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 11
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 0
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 8
+    },
+    {
+      "name": "mekanik",
+      "amount": 0
+    },
+    {
+      "name": "seniman",
+      "amount": 0
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 2
+    },
+    {
+      "name": "perancang busana",
+      "amount": 10
+    },
+    {
+      "name": "penterjemah",
+      "amount": 11
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 0
+    },
+    {
+      "name": "pastor",
+      "amount": 1
+    },
+    {
+      "name": "wartawan",
+      "amount": 0
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 24
+    },
+    {
+      "name": "promotor acara",
+      "amount": 28
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 8
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 1
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 1
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 12
+    },
+    {
+      "name": "guru",
+      "amount": 89
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 6
+    },
+    {
+      "name": "notaris",
+      "amount": 4
+    },
+    {
+      "name": "arsitek",
+      "amount": 4
+    },
+    {
+      "name": "akuntan",
+      "amount": 2
+    },
+    {
+      "name": "konsultan",
+      "amount": 5
+    },
+    {
+      "name": "dokter",
+      "amount": 66
+    },
+    {
+      "name": "bidan",
+      "amount": 2
+    },
+    {
+      "name": "perawat",
+      "amount": 7
+    },
+    {
+      "name": "apoteker",
+      "amount": 1
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 2
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 76
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 283
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 1
+    },
+    {
+      "name": "biarawati",
+      "amount": 1
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 991
+    },
+    {
+      "name": "lainnya",
+      "amount": 78
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b45"
+  },
+  "village": "PETOJO SELATAN",
+  "district": "GAMBIR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 2255
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 1715
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 1248
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 1872
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 7617
+    },
+    {
+      "name": "diploma I II",
+      "amount": 67
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 799
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 1856
+    },
+    {
+      "name": "strata II",
+      "amount": 177
+    },
+    {
+      "name": "strata III",
+      "amount": 13
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 2459
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 3443
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 3815
+    },
+    {
+      "name": "pensiunan",
+      "amount": 136
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 169
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 664
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 12
+    },
+    {
+      "name": "perdagangan",
+      "amount": 3
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "industri",
+      "amount": 7
+    },
+    {
+      "name": "konstruksi",
+      "amount": 4
+    },
+    {
+      "name": "transportasi",
+      "amount": 1
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 5126
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 24
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 2
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 9
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 238
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 11
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 7
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 1
+    },
+    {
+      "name": "mekanik",
+      "amount": 5
+    },
+    {
+      "name": "seniman",
+      "amount": 12
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 10
+    },
+    {
+      "name": "pastor",
+      "amount": 1
+    },
+    {
+      "name": "wartawan",
+      "amount": 7
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 1
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 12
+    },
+    {
+      "name": "guru",
+      "amount": 62
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 13
+    },
+    {
+      "name": "notaris",
+      "amount": 6
+    },
+    {
+      "name": "arsitek",
+      "amount": 3
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 3
+    },
+    {
+      "name": "dokter",
+      "amount": 64
+    },
+    {
+      "name": "bidan",
+      "amount": 7
+    },
+    {
+      "name": "perawat",
+      "amount": 7
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 4
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 87
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 1
+    },
+    {
+      "name": "pedagang",
+      "amount": 119
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 930
+    },
+    {
+      "name": "lainnya",
+      "amount": 134
+    },
+    {
+      "name": "hakim",
+      "amount": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b46"
+  },
+  "village": "KEBON KELAPA",
+  "district": "GAMBIR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 1552
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 1167
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 1081
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 1681
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 5217
+    },
+    {
+      "name": "diploma I II",
+      "amount": 26
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 377
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 1099
+    },
+    {
+      "name": "strata II",
+      "amount": 76
+    },
+    {
+      "name": "strata III",
+      "amount": 5
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 1674
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 2594
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 2820
+    },
+    {
+      "name": "pensiunan",
+      "amount": 63
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 72
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 9
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 5
+    },
+    {
+      "name": "perdagangan",
+      "amount": 0
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 1
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "industri",
+      "amount": 1
+    },
+    {
+      "name": "konstruksi",
+      "amount": 4
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 3597
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 17
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 1
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 2
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 301
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 1
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 1
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 1
+    },
+    {
+      "name": "seniman",
+      "amount": 11
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 1
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 7
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 3
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 1
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 1
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 13
+    },
+    {
+      "name": "guru",
+      "amount": 29
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 7
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 1
+    },
+    {
+      "name": "dokter",
+      "amount": 23
+    },
+    {
+      "name": "bidan",
+      "amount": 1
+    },
+    {
+      "name": "perawat",
+      "amount": 1
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 1
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 36
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 177
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 25
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 696
+    },
+    {
+      "name": "lainnya",
+      "amount": 83
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b47"
+  },
+  "village": "DURI PULO",
+  "district": "GAMBIR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 3957
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 2407
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 2854
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 3591
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 10158
+    },
+    {
+      "name": "diploma I II",
+      "amount": 74
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 503
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 1562
+    },
+    {
+      "name": "strata II",
+      "amount": 69
+    },
+    {
+      "name": "strata III",
+      "amount": 4
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 4172
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 5238
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 5622
+    },
+    {
+      "name": "pensiunan",
+      "amount": 137
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 205
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 415
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 15
+    },
+    {
+      "name": "perdagangan",
+      "amount": 0
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "industri",
+      "amount": 4
+    },
+    {
+      "name": "konstruksi",
+      "amount": 3
+    },
+    {
+      "name": "transportasi",
+      "amount": 2
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 7082
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 32
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 0
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 12
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 438
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 6
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 1
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 23
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 2
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 8
+    },
+    {
+      "name": "seniman",
+      "amount": 4
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 1
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 7
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 11
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 2
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 8
+    },
+    {
+      "name": "guru",
+      "amount": 138
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 0
+    },
+    {
+      "name": "notaris",
+      "amount": 2
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 3
+    },
+    {
+      "name": "dokter",
+      "amount": 30
+    },
+    {
+      "name": "bidan",
+      "amount": 6
+    },
+    {
+      "name": "perawat",
+      "amount": 10
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 1
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 0
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 180
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 387
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 2
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 1203
+    },
+    {
+      "name": "lainnya",
+      "amount": 167
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b48"
+  },
+  "village": "PASAR BARU",
+  "district": "SAWAH BESAR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 1803
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 1328
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 1215
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 2085
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 6093
+    },
+    {
+      "name": "diploma I II",
+      "amount": 40
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 629
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 2254
+    },
+    {
+      "name": "strata II",
+      "amount": 165
+    },
+    {
+      "name": "strata III",
+      "amount": 13
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 2155
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 3440
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 3334
+    },
+    {
+      "name": "pensiunan",
+      "amount": 65
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 64
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 67
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 4
+    },
+    {
+      "name": "perdagangan",
+      "amount": 0
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 1
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "industri",
+      "amount": 2
+    },
+    {
+      "name": "konstruksi",
+      "amount": 1
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 4318
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 12
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 0
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 14
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 259
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 6
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 2
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 5
+    },
+    {
+      "name": "seniman",
+      "amount": 0
+    },
+    {
+      "name": "tabib",
+      "amount": 1
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 2
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 22
+    },
+    {
+      "name": "pastor",
+      "amount": 8
+    },
+    {
+      "name": "wartawan",
+      "amount": 3
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 11
+    },
+    {
+      "name": "guru",
+      "amount": 63
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 7
+    },
+    {
+      "name": "notaris",
+      "amount": 5
+    },
+    {
+      "name": "arsitek",
+      "amount": 2
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 3
+    },
+    {
+      "name": "dokter",
+      "amount": 63
+    },
+    {
+      "name": "bidan",
+      "amount": 0
+    },
+    {
+      "name": "perawat",
+      "amount": 2
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 0
+    },
+    {
+      "name": "peneliti",
+      "amount": 1
+    },
+    {
+      "name": "sopir",
+      "amount": 73
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 421
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 21
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 1071
+    },
+    {
+      "name": "lainnya",
+      "amount": 96
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b49"
+  },
+  "village": "KARANG ANYAR",
+  "district": "SAWAH BESAR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 4628
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 3292
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 4928
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 6147
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 11728
+    },
+    {
+      "name": "diploma I II",
+      "amount": 85
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 645
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 1567
+    },
+    {
+      "name": "strata II",
+      "amount": 65
+    },
+    {
+      "name": "strata III",
+      "amount": 3
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 4912
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 7286
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 7361
+    },
+    {
+      "name": "pensiunan",
+      "amount": 57
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 83
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 23
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 16
+    },
+    {
+      "name": "perdagangan",
+      "amount": 5
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "industri",
+      "amount": 1
+    },
+    {
+      "name": "konstruksi",
+      "amount": 1
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 9204
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 11
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 1
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 4
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 117
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 6
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 8
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 8
+    },
+    {
+      "name": "seniman",
+      "amount": 2
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 8
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 6
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 1
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 3
+    },
+    {
+      "name": "guru",
+      "amount": 123
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 4
+    },
+    {
+      "name": "notaris",
+      "amount": 1
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 0
+    },
+    {
+      "name": "dokter",
+      "amount": 33
+    },
+    {
+      "name": "bidan",
+      "amount": 3
+    },
+    {
+      "name": "perawat",
+      "amount": 10
+    },
+    {
+      "name": "apoteker",
+      "amount": 1
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 1
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 4
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 96
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 201
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 1
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 2306
+    },
+    {
+      "name": "lainnya",
+      "amount": 180
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b4a"
+  },
+  "village": "KARTINI",
+  "district": "SAWAH BESAR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 3665
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 2796
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 3453
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 4383
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 10770
+    },
+    {
+      "name": "diploma I II",
+      "amount": 61
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 824
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 1856
+    },
+    {
+      "name": "strata II",
+      "amount": 107
+    },
+    {
+      "name": "strata III",
+      "amount": 6
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 3908
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 6149
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 6186
+    },
+    {
+      "name": "pensiunan",
+      "amount": 123
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 67
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 23
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 14
+    },
+    {
+      "name": "perdagangan",
+      "amount": 0
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "industri",
+      "amount": 6
+    },
+    {
+      "name": "konstruksi",
+      "amount": 4
+    },
+    {
+      "name": "transportasi",
+      "amount": 6
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 8151
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 9
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 0
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 5
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 701
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 1
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 2
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 17
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 2
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 1
+    },
+    {
+      "name": "mekanik",
+      "amount": 7
+    },
+    {
+      "name": "seniman",
+      "amount": 10
+    },
+    {
+      "name": "tabib",
+      "amount": 1
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 20
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 7
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 1
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 11
+    },
+    {
+      "name": "guru",
+      "amount": 100
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 6
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 1
+    },
+    {
+      "name": "konsultan",
+      "amount": 3
+    },
+    {
+      "name": "dokter",
+      "amount": 36
+    },
+    {
+      "name": "bidan",
+      "amount": 1
+    },
+    {
+      "name": "perawat",
+      "amount": 11
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 4
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 160
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 297
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 11
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 1718
+    },
+    {
+      "name": "lainnya",
+      "amount": 141
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b4b"
+  },
+  "village": "GUNUNG SAHARI UTARA",
+  "district": "SAWAH BESAR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 2311
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 1656
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 1851
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 2638
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 7758
+    },
+    {
+      "name": "diploma I II",
+      "amount": 61
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 677
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 2597
+    },
+    {
+      "name": "strata II",
+      "amount": 173
+    },
+    {
+      "name": "strata III",
+      "amount": 16
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 2535
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 4219
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 4449
+    },
+    {
+      "name": "pensiunan",
+      "amount": 228
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 96
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 26
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 5
+    },
+    {
+      "name": "perdagangan",
+      "amount": 1
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "industri",
+      "amount": 9
+    },
+    {
+      "name": "konstruksi",
+      "amount": 0
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 5934
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 52
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 0
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 2
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 441
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 7
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 12
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 3
+    },
+    {
+      "name": "seniman",
+      "amount": 6
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 1
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 15
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 14
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 12
+    },
+    {
+      "name": "guru",
+      "amount": 87
+    },
+    {
+      "name": "pilot",
+      "amount": 8
+    },
+    {
+      "name": "pengacara",
+      "amount": 14
+    },
+    {
+      "name": "notaris",
+      "amount": 1
+    },
+    {
+      "name": "arsitek",
+      "amount": 2
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 2
+    },
+    {
+      "name": "dokter",
+      "amount": 68
+    },
+    {
+      "name": "bidan",
+      "amount": 0
+    },
+    {
+      "name": "perawat",
+      "amount": 4
+    },
+    {
+      "name": "apoteker",
+      "amount": 1
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 7
+    },
+    {
+      "name": "peneliti",
+      "amount": 1
+    },
+    {
+      "name": "sopir",
+      "amount": 49
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 222
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 1103
+    },
+    {
+      "name": "lainnya",
+      "amount": 99
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b4c"
+  },
+  "village": "MANGGA DUA SELATAN",
+  "district": "SAWAH BESAR",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 5168
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 3224
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 4153
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 6175
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 14097
+    },
+    {
+      "name": "diploma I II",
+      "amount": 82
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 767
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 1788
+    },
+    {
+      "name": "strata II",
+      "amount": 81
+    },
+    {
+      "name": "strata III",
+      "amount": 10
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 5357
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 7134
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 7130
+    },
+    {
+      "name": "pensiunan",
+      "amount": 125
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 47
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 11
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 7
+    },
+    {
+      "name": "perdagangan",
+      "amount": 0
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 1
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "industri",
+      "amount": 15
+    },
+    {
+      "name": "konstruksi",
+      "amount": 10
+    },
+    {
+      "name": "transportasi",
+      "amount": 3
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 11280
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 9
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 1
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 1
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 699
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 2
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 1
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 1
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 1
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 10
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 1
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 9
+    },
+    {
+      "name": "seniman",
+      "amount": 5
+    },
+    {
+      "name": "tabib",
+      "amount": 1
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 3
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 7
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 2
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 4
+    },
+    {
+      "name": "guru",
+      "amount": 69
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 5
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 0
+    },
+    {
+      "name": "dokter",
+      "amount": 34
+    },
+    {
+      "name": "bidan",
+      "amount": 4
+    },
+    {
+      "name": "perawat",
+      "amount": 16
+    },
+    {
+      "name": "apoteker",
+      "amount": 2
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 6
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 85
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 271
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 2911
+    },
+    {
+      "name": "lainnya",
+      "amount": 263
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b4d"
+  },
+  "village": "KEMAYORAN",
+  "district": "KEMAYORAN",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 3988
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 2428
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 2379
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 3709
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 10300
+    },
+    {
+      "name": "diploma I II",
+      "amount": 44
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 672
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 1645
+    },
+    {
+      "name": "strata II",
+      "amount": 56
+    },
+    {
+      "name": "strata III",
+      "amount": 2
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 4293
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 5170
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 5322
+    },
+    {
+      "name": "pensiunan",
+      "amount": 192
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 133
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 26
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 11
+    },
+    {
+      "name": "perdagangan",
+      "amount": 65
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 2
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "industri",
+      "amount": 5
+    },
+    {
+      "name": "konstruksi",
+      "amount": 8
+    },
+    {
+      "name": "transportasi",
+      "amount": 8
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 7052
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 23
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 6
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 7
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 680
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 4
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 5
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 1
+    },
+    {
+      "name": "mekanik",
+      "amount": 7
+    },
+    {
+      "name": "seniman",
+      "amount": 4
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 14
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 12
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 1
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 9
+    },
+    {
+      "name": "guru",
+      "amount": 125
+    },
+    {
+      "name": "pilot",
+      "amount": 0
+    },
+    {
+      "name": "pengacara",
+      "amount": 6
+    },
+    {
+      "name": "notaris",
+      "amount": 2
+    },
+    {
+      "name": "arsitek",
+      "amount": 3
+    },
+    {
+      "name": "akuntan",
+      "amount": 1
+    },
+    {
+      "name": "konsultan",
+      "amount": 4
+    },
+    {
+      "name": "dokter",
+      "amount": 39
+    },
+    {
+      "name": "bidan",
+      "amount": 6
+    },
+    {
+      "name": "perawat",
+      "amount": 4
+    },
+    {
+      "name": "apoteker",
+      "amount": 0
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 1
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 107
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 264
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 1
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 1410
+    },
+    {
+      "name": "lainnya",
+      "amount": 190
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b4e"
+  },
+  "village": "KEBON KOSONG",
+  "district": "KEMAYORAN",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 5469
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 3211
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 3054
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 3135
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 14046
+    },
+    {
+      "name": "diploma I II",
+      "amount": 74
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 948
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 2229
+    },
+    {
+      "name": "strata II",
+      "amount": 181
+    },
+    {
+      "name": "strata III",
+      "amount": 18
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 5570
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 6297
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 7448
+    },
+    {
+      "name": "pensiunan",
+      "amount": 300
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 306
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 33
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 22
+    },
+    {
+      "name": "perdagangan",
+      "amount": 26
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 1
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "industri",
+      "amount": 9
+    },
+    {
+      "name": "konstruksi",
+      "amount": 1
+    },
+    {
+      "name": "transportasi",
+      "amount": 0
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 9434
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 68
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 2
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 24
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 397
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 0
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 1
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 8
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 5
+    },
+    {
+      "name": "seniman",
+      "amount": 6
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 17
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 14
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 0
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 6
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 18
+    },
+    {
+      "name": "guru",
+      "amount": 174
+    },
+    {
+      "name": "pilot",
+      "amount": 1
+    },
+    {
+      "name": "pengacara",
+      "amount": 11
+    },
+    {
+      "name": "notaris",
+      "amount": 0
+    },
+    {
+      "name": "arsitek",
+      "amount": 0
+    },
+    {
+      "name": "akuntan",
+      "amount": 1
+    },
+    {
+      "name": "konsultan",
+      "amount": 3
+    },
+    {
+      "name": "dokter",
+      "amount": 38
+    },
+    {
+      "name": "bidan",
+      "amount": 8
+    },
+    {
+      "name": "perawat",
+      "amount": 8
+    },
+    {
+      "name": "apoteker",
+      "amount": 1
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 11
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 99
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 288
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 1507
+    },
+    {
+      "name": "lainnya",
+      "amount": 201
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "632da7d779f6c29ff7ea7b4f"
+  },
+  "village": "HARAPAN MULIA",
+  "district": "KEMAYORAN",
+  "city": "JAKARTA PUSAT",
+  "province": "PROVINSI DKI JAKARTA",
+  "educations": [
+    {
+      "name": "tidak belum sekolah",
+      "amount": 3914
+    },
+    {
+      "name": "belum tamat sd sederajat",
+      "amount": 3013
+    },
+    {
+      "name": "tamat sd sederajat",
+      "amount": 2727
+    },
+    {
+      "name": "sltp sederajat",
+      "amount": 2812
+    },
+    {
+      "name": "slta sederajat",
+      "amount": 11278
+    },
+    {
+      "name": "diploma I II",
+      "amount": 88
+    },
+    {
+      "name": "akademi diploma III s muda",
+      "amount": 1065
+    },
+    {
+      "name": "diploma IV strata I",
+      "amount": 2198
+    },
+    {
+      "name": "strata II",
+      "amount": 143
+    },
+    {
+      "name": "strata III",
+      "amount": 9
+    }
+  ],
+  "jobs": [
+    {
+      "name": "belum tidak bekerja",
+      "amount": 4036
+    },
+    {
+      "name": "mengurus rumah tangga",
+      "amount": 5328
+    },
+    {
+      "name": "pelajar mahasiswa",
+      "amount": 6378
+    },
+    {
+      "name": "pensiunan",
+      "amount": 305
+    },
+    {
+      "name": "pegawai negeri sipil",
+      "amount": 358
+    },
+    {
+      "name": "tentara nasional indonesia",
+      "amount": 36
+    },
+    {
+      "name": "kepolisian ri",
+      "amount": 13
+    },
+    {
+      "name": "perdagangan",
+      "amount": 1
+    },
+    {
+      "name": "petani pekebun",
+      "amount": 0
+    },
+    {
+      "name": "peternak",
+      "amount": 0
+    },
+    {
+      "name": "nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "industri",
+      "amount": 4
+    },
+    {
+      "name": "konstruksi",
+      "amount": 1
+    },
+    {
+      "name": "transportasi",
+      "amount": 12
+    },
+    {
+      "name": "karyawan swasta",
+      "amount": 7125
+    },
+    {
+      "name": "karyawan bumn",
+      "amount": 74
+    },
+    {
+      "name": "karyawan bumd",
+      "amount": 8
+    },
+    {
+      "name": "karyawan honorer",
+      "amount": 21
+    },
+    {
+      "name": "buruh harian lepas",
+      "amount": 926
+    },
+    {
+      "name": "buruh tani perkebunan",
+      "amount": 0
+    },
+    {
+      "name": "buruh nelayan perikanan",
+      "amount": 1
+    },
+    {
+      "name": "buruh peternakan",
+      "amount": 0
+    },
+    {
+      "name": "pembantu rumah tangga",
+      "amount": 4
+    },
+    {
+      "name": "tukang cukur",
+      "amount": 0
+    },
+    {
+      "name": "tukang listrik",
+      "amount": 0
+    },
+    {
+      "name": "tukang batu",
+      "amount": 0
+    },
+    {
+      "name": "tukang kayu",
+      "amount": 0
+    },
+    {
+      "name": "tukang sol sepatu",
+      "amount": 0
+    },
+    {
+      "name": "tukang las pandai besi",
+      "amount": 0
+    },
+    {
+      "name": "tukang jahit",
+      "amount": 13
+    },
+    {
+      "name": "tukang gigi",
+      "amount": 0
+    },
+    {
+      "name": "penata rias",
+      "amount": 0
+    },
+    {
+      "name": "penata busana",
+      "amount": 0
+    },
+    {
+      "name": "penata rambut",
+      "amount": 0
+    },
+    {
+      "name": "mekanik",
+      "amount": 8
+    },
+    {
+      "name": "seniman",
+      "amount": 11
+    },
+    {
+      "name": "tabib",
+      "amount": 0
+    },
+    {
+      "name": "paraji",
+      "amount": 0
+    },
+    {
+      "name": "perancang busana",
+      "amount": 0
+    },
+    {
+      "name": "penterjemah",
+      "amount": 0
+    },
+    {
+      "name": "imam mesjid",
+      "amount": 0
+    },
+    {
+      "name": "pendeta",
+      "amount": 2
+    },
+    {
+      "name": "pastor",
+      "amount": 0
+    },
+    {
+      "name": "wartawan",
+      "amount": 12
+    },
+    {
+      "name": "ustadz mubaligh",
+      "amount": 1
+    },
+    {
+      "name": "juru masak",
+      "amount": 0
+    },
+    {
+      "name": "promotor acara",
+      "amount": 0
+    },
+    {
+      "name": "anggota dpr ri",
+      "amount": 1
+    },
+    {
+      "name": "anggota dpd",
+      "amount": 0
+    },
+    {
+      "name": "anggota bpk",
+      "amount": 0
+    },
+    {
+      "name": "presiden",
+      "amount": 0
+    },
+    {
+      "name": "wakil presiden",
+      "amount": 0
+    },
+    {
+      "name": "anggota mahkamah konstitusi",
+      "amount": 0
+    },
+    {
+      "name": "anggota kabinet kementerian",
+      "amount": 0
+    },
+    {
+      "name": "duta besar",
+      "amount": 0
+    },
+    {
+      "name": "gubernur",
+      "amount": 0
+    },
+    {
+      "name": "wakil gubernur",
+      "amount": 0
+    },
+    {
+      "name": "bupati",
+      "amount": 0
+    },
+    {
+      "name": "wakil bupati",
+      "amount": 0
+    },
+    {
+      "name": "walikota",
+      "amount": 0
+    },
+    {
+      "name": "wakil walikota",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd provinsi",
+      "amount": 0
+    },
+    {
+      "name": "anggota dprd kabupaten kota",
+      "amount": 0
+    },
+    {
+      "name": "dosen",
+      "amount": 21
+    },
+    {
+      "name": "guru",
+      "amount": 259
+    },
+    {
+      "name": "pilot",
+      "amount": 2
+    },
+    {
+      "name": "pengacara",
+      "amount": 6
+    },
+    {
+      "name": "notaris",
+      "amount": 3
+    },
+    {
+      "name": "arsitek",
+      "amount": 2
+    },
+    {
+      "name": "akuntan",
+      "amount": 0
+    },
+    {
+      "name": "konsultan",
+      "amount": 2
+    },
+    {
+      "name": "dokter",
+      "amount": 29
+    },
+    {
+      "name": "bidan",
+      "amount": 5
+    },
+    {
+      "name": "perawat",
+      "amount": 21
+    },
+    {
+      "name": "apoteker",
+      "amount": 1
+    },
+    {
+      "name": "psikiater psikolog",
+      "amount": 0
+    },
+    {
+      "name": "penyiar televisi",
+      "amount": 0
+    },
+    {
+      "name": "penyiar radio",
+      "amount": 0
+    },
+    {
+      "name": "pelaut",
+      "amount": 7
+    },
+    {
+      "name": "peneliti",
+      "amount": 0
+    },
+    {
+      "name": "sopir",
+      "amount": 102
+    },
+    {
+      "name": "pialang",
+      "amount": 0
+    },
+    {
+      "name": "paranormal",
+      "amount": 0
+    },
+    {
+      "name": "pedagang",
+      "amount": 339
+    },
+    {
+      "name": "perangkat desa",
+      "amount": 0
+    },
+    {
+      "name": "kepala desa",
+      "amount": 0
+    },
+    {
+      "name": "biarawati",
+      "amount": 0
+    },
+    {
+      "name": "wiraswasta",
+      "amount": 1616
+    },
+    {
+      "name": "lainnya",
+      "amount": 152
+    },
+    {
+      "name": "hakim",
+      "amount": 0
+    }
+  ]
+}]
