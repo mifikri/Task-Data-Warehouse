@@ -1,10 +1,10 @@
-from unittest import result
 import mysql.connector
+import os
 
 def create_connection(db_name):
     
     db_conn = mysql.connector.connect(
-        host="localhost",
+        host=os.getenv("MARIA_HOST"),
         user="root",
         passwd="mypass",
         database=db_name

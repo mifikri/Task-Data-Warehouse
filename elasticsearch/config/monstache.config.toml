@@ -1,0 +1,20 @@
+mongo-url = "mongodb://mongo1:27017/jakarta?replicaSet=rp0"
+
+elasticsearch-urls = ["http://elasticsearch:9200"]
+
+elasticsearch-max-conns = 4
+
+elasticsearch-max-seconds = 5
+
+elasticsearch-max-bytes = 8000000
+
+dropped-collections = false
+
+dropped-databases = false
+
+namespace-regex = "^jakarta.distribution"
+direct-read-namespaces = ["jakarta.jakarta.distribution"]
+
+[[mapping]]
+namespace = "jakarta.jakarta.distribution"
+index = "distribution"
