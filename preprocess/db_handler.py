@@ -71,11 +71,68 @@ def load_distribution():
     conn.close()
     return all_results_educations
 
+def load_distribution_v2():
+    conn = create_connection(db_name="pekerjaan")
+    cursor = conn.cursor()
+    sql = "select distribusi.daerah_id, daerah.nama_kelurahan, daerah.nama_kecamatan, daerah.nama_kota, daerah.nama_provinsi, pekerjaan.nama, jumlah " \
+        "from distribusi, pekerjaan, daerah " \
+        "where distribusi.daerah_id=daerah.id and distribusi.pekerjaan_id=pekerjaan.id and distribusi.jumlah>0"
+    
+    cursor.execute(sql)
+    results = cursor.fetchall()
+    
+    all_result = []
+    for i in results:
+        data = dict()
+        data["daerah_id"] = i[0]
+        data["village"] = i[1]
+        data["district"] = i[2]
+        data["city"] = i[3]
+        data["province"] = i[4]
+        data["category"] = "job"
+        data["roles"] = i[5]
+        data["amount"] = i[6]
+        all_result.append(data)
+    
+    print (len(results))
+    cursor.close()
+    conn.close()
+    
+    conn = create_connection(db_name="pendidikan")
+    cursor = conn.cursor()
+    sql = "select distribusi.daerah_id, daerah.nama_kelurahan, daerah.nama_kecamatan, daerah.nama_kota, daerah.nama_provinsi, pendidikan.nama, jumlah " \
+        "from distribusi, pendidikan, daerah " \
+        "where distribusi.daerah_id=daerah.id and distribusi.pendidikan_id=pendidikan.id and distribusi.daerah_id<=20"
+    
+    cursor.execute(sql)
+    results = cursor.fetchall()
+    
+    for i in results:
+        data = dict()
+        data["daerah_id"] = i[0]
+        data["village"] = i[1]
+        data["district"] = i[2]
+        data["city"] = i[3]
+        data["province"] = i[4]
+        data["category"] = "education"
+        data["roles"] = i[5]
+        data["amount"] = i[6]
+        all_result.append(data)
+    
+    print (len(results))
+    cursor.close()
+    conn.close()
+    
+    print (len(all_result))
+    return sorted(all_result, key=lambda d: d['daerah_id'])
+
 if __name__=="__main__":
     # handle_region()
     # print(load_educations())
     # print(load_jobs())
     
-    print (load_distribution()[-1])    
-    print (len(load_distribution()))
+    # print (load_distribution()[-1])    
+    # print (len(load_distribution()))
+    
+    load_distribution_v2()
     

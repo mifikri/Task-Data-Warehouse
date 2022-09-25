@@ -14,7 +14,7 @@ if __name__=="__main__":
     print(conn.list_database_names())
     print(db.list_collection_names())
     
-    collections.insert_many(db_handler.load_distribution()).inserted_ids
+    collections.insert_many(db_handler.load_distribution_v2()).inserted_ids
     
     print ("after creating documents")
     print(conn.list_database_names())
